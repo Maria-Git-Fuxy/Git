@@ -5,3 +5,5 @@ git commit - comentar o que foi modificado
 git branch - dar o nome para nossa branch local
 git remote add - faz conexão do repositorio local e o da nuvem
 git push - envia as modificações para o repositorio da nuvem
+git checkout - troca de branch
+git checkout -b - cria uma nova branch local
